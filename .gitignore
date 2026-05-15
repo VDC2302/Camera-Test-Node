@@ -67,6 +67,10 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+<<<<<<< HEAD
 
 # Visual Studio local workspace data
 .vs/
+out/
+=======
+>>>>>>> a4c591bdb37dd40b79df9bc0498b7e740b8e52a5
