@@ -1,0 +1,4 @@
+ModuleID,VCM_Stroke_um,Current_mA,Status
+MOD_001,42.5,120.2,PASS
+MOD_002,12.1,155.0,FAIL
+MOD_003,45.0,118.9,PASS
