@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(CameraTestNode
 	src/main.cpp
 	src/LogParser.cpp
- "include/LogParser.h")
+ "include/LogParser.h" "include/ImageAnalyzer.h" "src/ImageAnalyzer.cpp" "include/VcmAlgorithm.h" "src/VcmAlgorithm.cpp")
 
 target_include_directories(CameraTestNode PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 
